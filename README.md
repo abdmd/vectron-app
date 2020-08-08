@@ -11,10 +11,10 @@
 
 User level:
 
-Email: john@vectron.com
-Password: john@123
+Email: user@vectron.com.au
+Password: user@123
 
 Admin level:
 
-Email: jack@vectron.com
-Password: jack@123
+Email: admin@vectron.com.au
+Password: admin@123
