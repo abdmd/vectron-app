@@ -11,10 +11,14 @@
 
 User level:
 
+Can register own user and login, update own information and change password.
+
 Email: user@vectron.com.au
 Password: user@123
 
 Admin level:
+
+Can create new users, assign roles, update and delete any user.
 
 Email: admin@vectron.com.au
 Password: admin@123
